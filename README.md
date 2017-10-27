@@ -7,7 +7,7 @@
 				<h1><a href="https://softuni.bg/">SoftUni</a></h1>
 				<h2>Java</h2>
 			</td>
-			<td align="center" width="33%"><img src="https://avatars0.githubusercontent.com/u/25770665?s=250&v=4" alt="" />
+			<td align="center" width="33%"><img src="https://avatars0.githubusercontent.com/u/25770665?s=200&v=4" alt="" />
 				<!-- for LinkedIn <img src="" alt="LinkedIn" /> -->
 				Author: 
 				<strong>
