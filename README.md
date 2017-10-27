@@ -9,12 +9,13 @@
 				<h2>Java</h2>
 			</td>
 			<td align="center" width="33%">
-				<span style="display:block;text-align:center"><img style="text-align:center;" src="https://avatars0.githubusercontent.com/u/25770665?s=200&v=4" alt="" /></span>
+				<div><img style="text-align:center;" src="https://avatars0.githubusercontent.com/u/25770665?s=200&v=4" alt="" /></div>
 				<!-- for LinkedIn <img src="" alt="LinkedIn" /> -->
-					Author: 
-					<strong>
-						<a title="GitHub Valeri Elashvili" href="https://github.com/valerielashvili" target="">Valeri Elashvili</a>
-					</strong>
+					<div>Author: 
+						<strong>
+							<a title="GitHub Valeri Elashvili" href="https://github.com/valerielashvili" target="">Valeri Elashvili</a>
+						</strong>
+					</div>
 			</td>
 		</tr>
 	</tbody>
