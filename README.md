@@ -1,10 +1,10 @@
 <!-- Head Start -->
-<table border="0" width="1111" height="278" cellspacing="1" cellpadding="3" align="center">
+<table border="1" width="1111" height="278" cellspacing="1" cellpadding="3" align="center">
 	<tbody>
 		<tr>
 			<td align="center" width="33%">
-			<a title="Software University" href="https://softuni.bg/" target="_blank">
-				<img style="text-align: center;" src="http://www.nakov.com/wp-content/uploads/2012/03/Software-University-logo-horizontal.png" width="340" height="99" alt="" />
+				<a title="Software University" href="https://softuni.bg/" target="_blank">
+					<img style="text-align: center;" src="http://www.nakov.com/wp-content/uploads/2012/03/Software-University-logo-horizontal.png" width="300" height="88" alt="" />
 				</a>
 			</td>
 			<td align="center" width="33%">
@@ -13,27 +13,27 @@
 			</td>
 			<td align="center" width="33%">
 				<p>
-				<a title="GitHub Valeri Elashvili" href="https://github.com/valerielashvili" target="">
-				<img style="text-align:center;" src="https://avatars0.githubusercontent.com/u/25770665?s=200&v=4" alt="" />
-				</a>
+					<a title="GitHub Valeri Elashvili" href="https://github.com/valerielashvili" target="">
+						<img style="text-align:center;" src="https://avatars0.githubusercontent.com/u/25770665?s=200&v=4" alt="" />
+					</a>
 				</p>
 				<!-- for LinkedIn <img src="" alt="LinkedIn" /> -->
-					<p>Author: 
-						<strong>
-							<a title="GitHub Valeri Elashvili" href="https://github.com/valerielashvili" target="">Valeri Elashvili</a>
-						</strong>
-					</p>
+				<p>Author: 
+					<strong>
+						<a title="GitHub Valeri Elashvili" href="https://github.com/valerielashvili" target="">Valeri Elashvili</a>
+					</strong>
+				</p>
 			</td>
 		</tr>
-		</tbody>
+	</tbody>
 </table>
-<table border="0" cellspacing="1" cellpadding="3">
+<table border="0">
 	<tbody>
-			<tr align="left">
+		<tr align="left">
 			<td>
-			<div>A repository with all my homeworks I have written for various courses at Software University.</div>
+				<div>A repository with all my homeworks I have written for various courses at Software University.</div>
 			</td>
-			</tr>
+		</tr>
 	</tbody>
 </table>
 <!-- Head End -->
