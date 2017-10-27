@@ -1,12 +1,12 @@
 <!-- Head Start -->
-<table border="0" width="100%" cellspacing="1" cellpadding="3" align="center">
+<table border="0" width="1111" height="278" cellspacing="1" cellpadding="3" align="center">
 	<tbody>
 		<tr>
 			<td align="center" width="33%">
 			<a title="Software University" href="https://softuni.bg/" target="_blank">
 				<img style="text-align: center;" src="http://www.nakov.com/wp-content/uploads/2012/03/Software-University-logo-horizontal.png" width="340" height="99" alt="" />
 				</a>
-				</td>
+			</td>
 			<td align="center" width="33%">
 				<h1><a href="https://softuni.bg/">SoftUni</a></h1>
 				<h3>Java Web Development Concentration</h3>
@@ -24,11 +24,16 @@
 						</strong>
 					</p>
 			</td>
-			</tr>
+		</tr>
+		</tbody>
+</table>
+<table border="0" cellspacing="1" cellpadding="3">
+	<tbody>
+			<tr align="left">
 			<td>
 			<div>A repository with all my homeworks I have written for various courses at Software University.</div>
 			</td>
-		</tr>
+			</tr>
 	</tbody>
 </table>
 <!-- Head End -->
