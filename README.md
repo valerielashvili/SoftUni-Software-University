@@ -9,7 +9,7 @@
 				<h2>Java</h2>
 			</td>
 			<td align="center" width="33%">
-				<center><img style="text-align:center;" src="https://avatars0.githubusercontent.com/u/25770665?s=200&v=4" alt="" /></center>
+				<span style="display:block;text-align:center"><img style="text-align:center;" src="https://avatars0.githubusercontent.com/u/25770665?s=200&v=4" alt="" /></span>
 				<!-- for LinkedIn <img src="" alt="LinkedIn" /> -->
 					Author: 
 					<strong>
