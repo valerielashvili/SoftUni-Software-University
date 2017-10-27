@@ -14,7 +14,7 @@
 			<th align="center" width="35%">
 				<p>
 					<a title="GitHub Valeri Elashvili" href="https://github.com/valerielashvili" target="">
-						<img style="text-align:center;" src="https://avatars0.githubusercontent.com/u/25770665?s=220&v=4" alt="" />
+						<img style="text-align:center;" src="https://avatars0.githubusercontent.com/u/25770665?s=200&v=4" alt="" />
 					</a>
 				</p>
 				<!-- for LinkedIn <img src="" alt="LinkedIn" /> -->
