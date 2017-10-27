@@ -4,7 +4,7 @@
 		<tr>
 			<td align="center" width="33%">
 			<a title="Software University" href="https://softuni.bg/" target="_blank">
-				<img style="text-align: center;" src="http://www.nakov.com/wp-content/uploads/2012/03/Software-University-logo-horizontal.png" width="300" height="88" alt="" />
+				<img style="text-align: center;" src="http://www.nakov.com/wp-content/uploads/2012/03/Software-University-logo-horizontal.png" width="340" height="99" alt="" />
 				</a>
 				</td>
 			<td align="center" width="33%">
@@ -26,7 +26,7 @@
 			</td>
 			</tr>
 			<td>
-			<p>A repository with all my homeworks I have written for various courses at Software University.</p>
+			<div>A repository with all my homeworks I have written for various courses at Software University.</div>
 			</td>
 		</tr>
 	</tbody>
