@@ -14,7 +14,7 @@
 						<a title="GitHub Valeri Elashvili" href="https://github.com/valerielashvili" target="">
 							Valeri Elashvili
 						</a>
-					</strong></p>
+					</strong>
 			</td>
 		</tr>
 	</tbody>
