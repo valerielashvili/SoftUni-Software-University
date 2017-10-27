@@ -3,8 +3,10 @@
 	<tbody>
 		<tr>
 			<td align="center" width="33%">
-				<img style="text-align: center;" src="https://softuni.org/Content/images/home-page/logo-university.png" alt="" /></td>
+				<img style="text-align: center;" src="http://www.nakov.com/wp-content/uploads/2012/03/Software-University-logo-horizontal.png" width="40%" height="40%"alt="" /></td>
 			<td align="center" width="33%">
+			</tr>
+			<tr>
 				<h1><a href="https://softuni.bg/">SoftUni</a></h1>
 				<h2>Java</h2>
 			</td>
