@@ -3,14 +3,24 @@
 	<tbody>
 		<tr>
 			<td align="center" width="67%">
-				<img style="text-align: center;" src="http://www.nakov.com/wp-content/uploads/2012/03/Software-University-logo-horizontal.png" width="400" height="117" alt="" /></td>
+			<a title="Software University" href="https://softuni.bg/" target="_blank">
+				<img style="text-align: center;" src="http://www.nakov.com/wp-content/uploads/2012/03/Software-University-logo-horizontal.png" width="400" height="117" alt="" />
+				</a>
+				</td>
 			<td align="center" width="33%">
 				<h1><a href="https://softuni.bg/">SoftUni</a></h1>
-				<h2>Java</h2>
+				<h3>Java Web Development Concentration</h3>
 			</tr>
 			</td>
+			<td>
+			<p>A repository with all my homeworks I have written for various courses at Software University.</p>
+			</td>
 			<td align="center" width="50%">
-				<p><img style="text-align:center;" src="https://avatars0.githubusercontent.com/u/25770665?s=200&v=4" alt="" /></p>
+				<p>
+				<a title="GitHub Valeri Elashvili" href="https://github.com/valerielashvili" target="">
+				<img style="text-align:center;" src="https://avatars0.githubusercontent.com/u/25770665?s=200&v=4" alt="" />
+				</a>
+				</p>
 				<!-- for LinkedIn <img src="" alt="LinkedIn" /> -->
 					<p>Author: 
 						<strong>
