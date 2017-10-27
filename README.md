@@ -9,7 +9,7 @@
 			</td>
 			<td align="center" width="33%">
 				<h1><a href="https://softuni.bg/">SoftUni</a></h1>
-				<h3>Java Web Development Concentration</h3>
+				<h3>Java Web Development<br>Concentration</h3>
 			</td>
 			<td align="center" width="33%">
 				<p>
