@@ -1,5 +1,5 @@
 <!-- Head Start -->
-<table border="1" width="1111" height="278" cellspacing="1" cellpadding="3" align="center">
+<table border="0" width="1111" height="278"  align="center">
 	<tbody>
 		<tr>
 			<td align="center" width="33%">
