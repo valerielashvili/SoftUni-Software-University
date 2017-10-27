@@ -4,7 +4,7 @@
 		<tr>
 			<th align="center" width="38%">
 				<a title="Software University" href="https://softuni.bg/" target="_blank">
-					<img style="text-align: center;" src="http://www.nakov.com/wp-content/uploads/2012/03/Software-University-logo-horizontal.png" width="300" height="88" alt="" />
+					<img style="text-align: center;" src="http://www.nakov.com/wp-content/uploads/2012/03/Software-University-logo-horizontal.png" width="340" height="99" alt="" />
 				</a>
 			</th>
 			<th align="center" width="27%">
@@ -14,7 +14,7 @@
 			<th align="center" width="35%">
 				<p>
 					<a title="GitHub Valeri Elashvili" href="https://github.com/valerielashvili" target="">
-						<img style="text-align:center;" src="https://avatars0.githubusercontent.com/u/25770665?s=200&v=4" alt="" />
+						<img style="text-align:center;" src="https://avatars0.githubusercontent.com/u/25770665?s=220&v=4" alt="" />
 					</a>
 				</p>
 				<!-- for LinkedIn <img src="" alt="LinkedIn" /> -->
