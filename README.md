@@ -1,5 +1,5 @@
 <!-- Head Start -->
-<table border="0" width="1111" height="278"  align="center">
+<table border="0" width="100%" cellspacing="1" cellpadding="3"  align="center">
 	<tbody>
 		<tr>
 			<th align="center" width="38%">
@@ -25,7 +25,7 @@
 				</p>
 			</th>
 		</tr>
-		<tr align="left">
+		<tr>
 			<td colspan="3">
 				<div>A repository with all my homeworks I have written for various courses at Software University.</div>
 			</td>
