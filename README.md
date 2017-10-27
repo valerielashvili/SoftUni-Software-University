@@ -3,7 +3,7 @@
 	<tbody>
 		<tr>
 			<td align="center" width="67%">
-				<img style="text-align: center;" src="http://www.nakov.com/wp-content/uploads/2012/03/Software-University-logo-horizontal.png" width="600" height="175" alt="" /></td>
+				<img style="text-align: center;" src="http://www.nakov.com/wp-content/uploads/2012/03/Software-University-logo-horizontal.png" width="400" height="117" alt="" /></td>
 			<td align="center" width="33%">
 				<h1><a href="https://softuni.bg/">SoftUni</a></h1>
 				<h2>Java</h2>
