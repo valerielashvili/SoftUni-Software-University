@@ -11,7 +11,8 @@
 				<h1><a href="https://softuni.bg/">SoftUni</a></h1>
 				<h3>Java Web Development<br>Concentration</h3>
 			</th>
-			<th align="center" width="38%">
+		</tr>
+		<tr><td align="center" width="38%">
 				<p>
 					<a title="GitHub Valeri Elashvili" href="https://github.com/valerielashvili" target="">
 						<img style="text-align:center;" src="https://avatars0.githubusercontent.com/u/25770665?s=200&v=4" alt="" />
@@ -23,10 +24,8 @@
 						<a title="GitHub Valeri Elashvili" href="https://github.com/valerielashvili" target="">Valeri Elashvili</a>
 					</strong>
 				</p>
-			</th>
-		</tr>
-		<tr>
-			<td colspan="3">
+			</td>
+			<td >
 				<div>A repository with all my homeworks I have written for various courses at Software University.</div>
 			</td>
 		</tr>
