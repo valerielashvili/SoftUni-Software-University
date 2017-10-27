@@ -2,12 +2,12 @@
 <table border="0" width="100%" cellspacing="1" cellpadding="3"  align="center">
 	<tbody>
 		<tr>
-			<th align="center" width="38%">
+			<th align="center" width="43%">
 				<a title="Software University" href="https://softuni.bg/" target="_blank">
 					<img style="text-align: center;" src="http://www.nakov.com/wp-content/uploads/2012/03/Software-University-logo-horizontal.png" width="340" height="99" alt="" />
 				</a>
 			</th>
-			<th align="center" width="27%">
+			<th align="center" width="22%">
 				<h1><a href="https://softuni.bg/">SoftUni</a></h1>
 				<h3>Java Web<br>Development<br>Concentration</h3>
 			</th>
