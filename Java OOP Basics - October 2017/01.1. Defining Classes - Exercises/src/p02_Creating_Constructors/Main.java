@@ -7,7 +7,8 @@ import java.lang.reflect.Constructor;
 import java.lang.reflect.InvocationTargetException;
 
 public class Main {
-    public static void main(String[] args) throws IOException, NoSuchMethodException, IllegalAccessException, InvocationTargetException, InstantiationException {
+    public static void main(String[] args) throws IOException,
+            NoSuchMethodException, IllegalAccessException, InvocationTargetException, InstantiationException {
         BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
         Class personClass = Person.class;
         Constructor emptyCtor = personClass.getDeclaredConstructor();
