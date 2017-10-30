@@ -47,7 +47,6 @@ public class Main {
                 .get()
                 .getKey();
 
-
         System.out.printf("Highest Average Salary: %s\n", highestAvgSalaries);
 
         System.out.println(employees
