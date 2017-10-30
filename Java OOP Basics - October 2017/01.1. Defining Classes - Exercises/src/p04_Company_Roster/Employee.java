@@ -1,18 +1,23 @@
 package p04_Company_Roster;
 
 class Employee {
+    private static final String DEFAULT_EMAIL = "n/a";
+    private static final int DEFAULT_AGE = -1;
+
     private String name;
     private double salary;
     private String position;
     private String department;
-    private String email = "n/a";
-    private int age = -1;
+    private String email;
+    private int age;
 
     Employee(String name, double salary, String position, String department) {
         this.name = name;
         this.salary = salary;
         this.position = position;
         this.department = department;
+        this.email = DEFAULT_EMAIL;
+        this.age = DEFAULT_AGE;
     }
 
     Employee(String name, double salary, String position, String department, String email) {
