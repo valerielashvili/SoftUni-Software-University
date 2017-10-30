@@ -3,7 +3,7 @@ package p06_Raw_Data;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Tire {
+class Tire {
     private List<Double> tirePressure = new ArrayList<>();
     private List<Integer> tireAge = new ArrayList<>();
 
