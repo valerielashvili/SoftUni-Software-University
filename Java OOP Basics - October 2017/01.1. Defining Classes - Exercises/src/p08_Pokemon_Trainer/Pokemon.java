@@ -11,7 +11,7 @@ class Pokemon {
         this.health = health;
     }
 
-    void decreasePokemonsHealth() {
+    void decreasePokemonHealth() {
         this.health -= 10;
     }
 
