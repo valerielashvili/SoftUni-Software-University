@@ -11,15 +11,15 @@ class Pokemon {
         this.health = health;
     }
 
-    void decreasePokemonHealth() {
-        this.health -= 10;
-    }
-
     int getHealth() {
         return this.health;
     }
 
     String getElement() {
         return this.element;
+    }
+
+    void decreasePokemonHealth() {
+        this.health -= 10;
     }
 }
