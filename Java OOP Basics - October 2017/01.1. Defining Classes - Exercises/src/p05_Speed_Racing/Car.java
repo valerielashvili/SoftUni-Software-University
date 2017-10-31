@@ -1,7 +1,7 @@
 package p05_Speed_Racing;
 
-public class Car {
-    private static final int DEFAULT_DISTANCE_TRAVALLED = 0;
+class Car {
+    private static final int DEFAULT_DISTANCE_TRAVELLED = 0;
 
     private String model;
     private double fuelAmount;
@@ -12,7 +12,11 @@ public class Car {
         this.model = model;
         this.fuelAmount = fuelAmount;
         this.fuelCost = fuelCost;
-        this.distanceTravelled = DEFAULT_DISTANCE_TRAVALLED;
+        this.distanceTravelled = DEFAULT_DISTANCE_TRAVELLED;
+    }
+
+    String getModel() {
+        return this.model;
     }
 
     void calculateDistance(int distance) {
@@ -22,10 +26,6 @@ public class Car {
         } else {
             System.out.println("Insufficient fuel for the drive");
         }
-    }
-
-    String getModel() {
-        return this.model;
     }
 
     @Override
