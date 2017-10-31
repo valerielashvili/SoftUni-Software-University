@@ -16,6 +16,10 @@ class Trainer {
         this.pokemonList = new ArrayList<>();
     }
 
+    int getBadges() {
+        return this.badges;
+    }
+
     void addPokemon(Pokemon pokemon) {
         this.pokemonList.add(pokemon);
     }
@@ -32,10 +36,6 @@ class Trainer {
                 }
             }
         }
-    }
-
-    int getBadges() {
-        return this.badges;
     }
 
     @Override
