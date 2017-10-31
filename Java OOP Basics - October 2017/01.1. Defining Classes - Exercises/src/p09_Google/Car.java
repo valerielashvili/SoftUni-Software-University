@@ -9,10 +9,6 @@ class Car {
         this.speed = speed;
     }
 
-    String getModel() {
-        return model;
-    }
-
     @Override
     public String toString() {
         return String.format("%s %d", this.model, this.speed);

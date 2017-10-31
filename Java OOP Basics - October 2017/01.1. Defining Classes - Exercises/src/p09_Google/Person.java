@@ -29,6 +29,10 @@ class Person {
         this.car = null;
     }
 
+    String getName() {
+        return this.name;
+    }
+
     void setCompany(String company) {
         this.company = company;
     }
@@ -55,10 +59,6 @@ class Person {
 
     void setCar(Car car) {
         this.car = car;
-    }
-
-    String getName() {
-        return this.name;
     }
 
     void print() {
