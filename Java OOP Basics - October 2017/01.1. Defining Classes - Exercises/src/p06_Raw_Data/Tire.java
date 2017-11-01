@@ -1,6 +1,7 @@
 package p06_Raw_Data;
 
 import java.util.ArrayList;
+import java.util.Collections;
 import java.util.List;
 
 class Tire {
@@ -13,6 +14,6 @@ class Tire {
     }
 
     List<Double> getTirePressure() {
-        return tirePressure;
+        return Collections.unmodifiableList(this.tirePressure);
     }
 }
