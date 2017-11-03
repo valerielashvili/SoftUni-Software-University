@@ -3,6 +3,7 @@ package p04_Shopping_Spree;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
+import java.util.stream.Collectors;
 
 class Person {
     private String name;
@@ -47,5 +48,12 @@ class Person {
 
     void charge(double cost) {
         this.money -= cost;
+    }
+
+    @Override
+    public String toString() {
+        return String.format("%s - %s", this.name,
+                this.products.size() == 0 ? "%s - Nothing bought\n" :
+        this.products.stream().map(Product::getName).collect(Collectors.joining(", ")));
     }
 }

@@ -30,9 +30,4 @@ class Product {
     double getCost() {
         return this.cost;
     }
-
-    @Override
-    public String toString() {
-        return this.name;
-    }
 }

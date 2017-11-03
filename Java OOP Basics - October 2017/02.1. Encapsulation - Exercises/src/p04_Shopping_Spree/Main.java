@@ -4,7 +4,6 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.*;
-import java.util.stream.Collectors;
 
 public class Main {
     public static void main(String[] args) throws IOException {
@@ -40,6 +39,7 @@ public class Main {
         }
 
         String inputLine = reader.readLine();
+
         while (!"END".equals(inputLine) && people.size() != 0 && products.size() != 0) {
             String[] tokens = inputLine.split("\\s+");
 
@@ -52,14 +52,6 @@ public class Main {
             }
             inputLine = reader.readLine();
         }
-
-        people.forEach((key, value) -> {
-            if (value.getProducts().size() != 0) {
-                System.out.printf("%s - ", value.getName());
-                System.out.println(value.getProducts().stream().map(Object::toString).collect(Collectors.joining(", ")));
-            } else {
-                System.out.printf("%s - Nothing bought\n", value.getName());
-            }
-        });
+        people.forEach((key, value) -> System.out.println(value));
     }
 }
