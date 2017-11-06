@@ -10,26 +10,29 @@
 			<th align="center" width="27%">
 				<h1><a href="https://softuni.bg/">SoftUni</a></h1>
 				<h3>Java Web<br>Development<br>Concentration</h3>
-			</th>
-			<th align="center" width="35%">
-				<p>
-					<a title="GitHub Valeri Elashvili" href="https://github.com/valerielashvili" target="">
-						<img style="text-align:center;" src="https://avatars0.githubusercontent.com/u/25770665?s=200&v=4" alt="" />
-					</a>
-				</p>
-				<!-- for LinkedIn <img src="" alt="LinkedIn" /> -->
-				<p>Author: 
-					<strong>
-						<a title="GitHub Valeri Elashvili" href="https://github.com/valerielashvili" target="">Valeri Elashvili</a>
-					</strong>
-				</p>
-			</th>
-		</tr>
-		<tr>
-			<td colspan="3">
-				<div>A repository with all my homeworks I have written for various courses at Software University.</div>
-			</td>
-		</tr>
-	</tbody>
-</table>
-<!-- Head End -->
+					</th>
+					<th align="center" width="35%">
+						<p>
+							<a title="GitHub Valeri Elashvili" href="https://github.com/valerielashvili" target="">
+								<img style="text-align:center;" src="https://avatars0.githubusercontent.com/u/25770665?s=200&v=4" alt="" />
+							</a>
+						</p>
+						<!-- for LinkedIn <img src="" alt="LinkedIn" /> -->
+						<p>
+							<img style="text-align: right;" src="https://media.licdn.com/mpr/mpr/shrink_100_100/AAEAAQAAAAAAAANyAAAAJGRlZTNlZDQwLTk4YTItNDA1MS04MzBjLWJmNGQ5M2RmZGUxYw.png" width="16" height="16" alt="" />
+							Author: 
+							<strong>
+								<a title="LinkedIn/valerielashvili" href="https://www.linkedin.com/in/valerielashvili/" target="_blank">Valeri Elashvili</a>
+							</strong>
+						</p>
+					</th>
+				</tr>
+				<tr>
+					<td colspan="3">
+						<div>A repository with all my homeworks I have written for various courses at Software University.</div>
+					</td>
+				</tr>
+			</tbody>
+		</table>
+		<!-- Head End -->
+		
