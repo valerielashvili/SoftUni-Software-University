@@ -18,7 +18,7 @@
 							</a>
 						</p>
 						<p>
-							<img align="bottom" style="text-align: right;" src="https://media.licdn.com/mpr/mpr/shrink_100_100/AAEAAQAAAAAAAANyAAAAJGRlZTNlZDQwLTk4YTItNDA1MS04MzBjLWJmNGQ5M2RmZGUxYw.png" width="17" height="17" alt="" />
+							<img valign="bottom" style="text-align: right;" src="https://media.licdn.com/mpr/mpr/shrink_100_100/AAEAAQAAAAAAAANyAAAAJGRlZTNlZDQwLTk4YTItNDA1MS04MzBjLWJmNGQ5M2RmZGUxYw.png" width="17" height="17" alt="" />
 							Author: 
 							<strong>
 								<a title="LinkedIn/valerielashvili" href="https://www.linkedin.com/in/valerielashvili/" target="_blank">Valeri Elashvili</a>
